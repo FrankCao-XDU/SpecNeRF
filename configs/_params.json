@@ -1,0 +1,5 @@
+{
+  "spectrum_num": 11,
+  "unet_base_channels": 32,
+  "act_func": "leaky_relu"
+}
